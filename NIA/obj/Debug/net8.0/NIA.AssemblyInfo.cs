@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NIA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a630b3e3574a3f13c777f4e5a8ceeeda421d78dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cffc01f1409e6a799c15df1161a665e2d319e0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NIA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NIA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
