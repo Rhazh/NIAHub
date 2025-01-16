@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\NIA.props" />
-</Project>
