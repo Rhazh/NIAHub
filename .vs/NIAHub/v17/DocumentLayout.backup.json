@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arian\\OneDrive - NC\\Documents\\04TERM\\PROG1440 - Community Sponsored Project\\NIA\\NIAHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E074D4F6-3C90-4A0B-8220-7EE118DF057C}|NIAHub\\NIAHub.csproj|c:\\users\\arian\\onedrive - nc\\documents\\04term\\prog1440 - community sponsored project\\nia\\niahub\\niahub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E074D4F6-3C90-4A0B-8220-7EE118DF057C}|NIAHub\\NIAHub.csproj|solutionrelative:niahub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive - NC\\Documents\\04TERM\\PROG1440 - Community Sponsored Project\\NIA\\NIAHub\\NIAHub\\Program.cs",
+              "RelativeDocumentMoniker": "NIAHub\\Program.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive - NC\\Documents\\04TERM\\PROG1440 - Community Sponsored Project\\NIA\\NIAHub\\NIAHub\\Program.cs",
+              "RelativeToolTip": "NIAHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:08:25.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167113990:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1637764702:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1975286573:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
