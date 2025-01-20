@@ -32,3 +32,4 @@ C:\Users\arian\OneDrive - NC\Documents\04TERM\PROG1440 - Community Sponsored Pro
 C:\Users\arian\OneDrive - NC\Documents\04TERM\PROG1440 - Community Sponsored Project\NIA\NIAHub\NIAHub\obj\Debug\net8.0\NIAHub.pdb
 C:\Users\arian\OneDrive - NC\Documents\04TERM\PROG1440 - Community Sponsored Project\NIA\NIAHub\NIAHub\obj\Debug\net8.0\NIAHub.genruntimeconfig.cache
 C:\Users\arian\OneDrive - NC\Documents\04TERM\PROG1440 - Community Sponsored Project\NIA\NIAHub\NIAHub\obj\Debug\net8.0\ref\NIAHub.dll
+C:\Users\arian\OneDrive - NC\Documents\04TERM\PROG1440 - Community Sponsored Project\NIA\NIAHub\NIAHub\obj\Debug\net8.0\NIAHub.sourcelink.json

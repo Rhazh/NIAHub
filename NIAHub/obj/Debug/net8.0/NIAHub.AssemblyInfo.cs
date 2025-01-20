@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NIAHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f5c8157c721f5e9d302ad8b0067274fce1b534")]
 [assembly: System.Reflection.AssemblyProductAttribute("NIAHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NIAHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
